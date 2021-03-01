@@ -87,7 +87,7 @@ try:
 			break
 		elif opt=='3':
 			time.sleep(1)
-			print(Fore.RED+"See you S00N"+Fore.RESET)
+			print(Fore.RED+"see you min lol 😼"+Fore.RESET)
 			exit()
 		else:
 			print(Fore.RED+'Invaild Choice!'+Fore.RESET)
